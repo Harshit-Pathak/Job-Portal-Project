@@ -3,12 +3,21 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@ionic/react": "^5.3.1",
+    "@ionic/react-router": "^5.3.1",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "firebase": "^7.17.2",
+    "ionic": "^5.4.16",
+    "re-base": "^4.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3"
+    "react-firebaseui": "^4.1.0",
+    "react-icons": "^3.10.0",
+    "react-popper": "^2.2.3",
+    "react-scripts": "3.4.3",
+    "reactstrap": "^8.5.1"
   },
   "scripts": {
     "start": "react-scripts start",
